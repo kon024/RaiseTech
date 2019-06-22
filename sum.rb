@@ -5,3 +5,4 @@ for i in 1..10
 end
 
 puts "1～10までの合計は" + sum.to_s
+#
